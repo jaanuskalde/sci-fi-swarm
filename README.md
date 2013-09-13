@@ -23,7 +23,7 @@ laser maybe?
 
 ###Top PCB###
 2335787 - RGB led
-8104590 - MCX connector for antenna
+1779478 - ceramic antenna
 
 Low level board
 ---------------
