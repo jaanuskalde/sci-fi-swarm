@@ -25,9 +25,12 @@ laser maybe?
 2335787 - RGB led
 1779478 - ceramic antenna
 
+###Back PCB###
+Film solar cell 12.7 x 64mm
+
 Low level board
 ---------------
-Radio communication, motor control
+Radio communication, motor control, battery charging
 Thickness: 1mm components + 0.6mm PCB + 0.5mm components
 
 ###BOM###
@@ -42,4 +45,5 @@ Thickness: 1mm components + 0.6mm PCB + 0.5mm components
 |capacitor||X7R 4V 0402
 |Magnet sensors|
 |Switching regulator|1816333|3MHz, 2.5V, 600mA, integrated inductor
-|Lipo charger|1605504|0.83€ 2x3x0.6mm 1.2A
+|SPV1040 MPPT|511-SPV1040T|
+|10u inductor|2287374|2x2x1mm
